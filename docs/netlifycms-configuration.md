@@ -7,7 +7,7 @@ title: NetlifyCMS
 
 ![NetlifyCMS](/.vuepress/dist/vuepress-deploy.jpg)
 
-In '.vuepress/public/config.yml' change the repo name
+In '.vuepress/public/config.yml' change the repo name lol
 
 ```
 backend:
