@@ -4,7 +4,7 @@ module.exports = {
         '/': {
             lang: 'de-DE',
             title: 'VuePress Deploy',
-            description: 'Vuepress with Netlify Deploy Button'
+            description: 'A personal blog of Fisayo Afolayan'
         }
     },
     head: [
@@ -22,7 +22,7 @@ module.exports = {
     serviceWorker: true,
     themeConfig: {
         docsDir: 'docs',
-        repo: 'capriosa/vuepress-deploy',
+        repo: 'fisayoafolayan/vuepress-blog',
 
         nav: [{
                 text: 'Start',
